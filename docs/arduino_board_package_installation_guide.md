@@ -49,8 +49,6 @@ Since you have installed a version of the Duo board package already, updating th
 3. After the board package updates, click on "Close" to shut down the Boards Manager.
 
 
-/www.arduino.cc/en/Main/Software)
-
 
 ## License
 
